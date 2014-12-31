@@ -26,6 +26,6 @@ public class MainActivity extends Activity implements OnCheckedChangeListener {
 	public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
 		image.setBackgroundResource(isChecked?R.drawable.nan:R.drawable.meinv);
 	}
-	
+	//增加一句话
 
 }
