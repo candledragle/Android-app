@@ -27,5 +27,6 @@ public class MainActivity extends Activity implements OnCheckedChangeListener {
 		image.setBackgroundResource(isChecked?R.drawable.nan:R.drawable.meinv);
 	}
 	//增加一句话
+	//user增加另一句话
 
 }
